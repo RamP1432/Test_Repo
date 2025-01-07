@@ -4,5 +4,6 @@ public class Welcome1
    {
      System.out.println("Welcome to the world of Java");
      System.out.println("Hello world");
+     System.out.println("Updated");
    }
  }
